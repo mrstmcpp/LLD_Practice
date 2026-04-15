@@ -4,6 +4,24 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/ElevatorSystem" />
+        <option name="gradleHome" value="C:/Gradle/gradle-8.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/ElevatorSystem" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/MultiThreading" />
+        <option name="gradleHome" value="C:/Gradle/gradle-8.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/MultiThreading" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/ParkingLot" />
         <option name="gradleHome" value="C:/Gradle/gradle-8.14.1" />
         <option name="modules">
