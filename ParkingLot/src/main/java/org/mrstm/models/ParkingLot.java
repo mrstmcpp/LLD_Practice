@@ -1,14 +1,12 @@
 package org.mrstm.models;
 
-import lombok.Builder;
 import lombok.Getter;
 import org.mrstm.enums.PaymentType;
 import org.mrstm.enums.PricingType;
 import org.mrstm.factory.vehicle.Vehicle;
-import org.mrstm.strategy.payment.PaymentProcessor;
-import org.mrstm.strategy.payment.PaymentStrategy;
-import org.mrstm.strategy.pricing.PricingProcessor;
-import org.mrstm.strategy.pricing.PricingStrategy;
+import org.mrstm.strategies.payment.PaymentProcessor;
+import org.mrstm.strategies.pricing.PricingProcessor;
+import org.mrstm.strategies.pricing.PricingStrategy;
 
 import java.time.Instant;
 import java.util.*;

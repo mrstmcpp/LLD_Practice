@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) throws InterruptedException {
         StateResource stateResource = new StateResource(false);
 
-        Producer producer = new Producer(stateResource);
+        Runnable producer = new Producer(stateResource);
         Consumer consumer = new Consumer(stateResource);
 
         for(int i = 0; i < 5; i++){

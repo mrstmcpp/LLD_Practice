@@ -11,6 +11,9 @@
       <module name="ParkingLot" target="23" />
       <module name="ParkingLot.main" target="23" />
       <module name="ParkingLot.test" target="23" />
+      <module name="RestaurantManagementSystem" target="23" />
+      <module name="RestaurantManagementSystem.main" target="23" />
+      <module name="RestaurantManagementSystem.test" target="23" />
       <module name="TicTacToe" target="23" />
       <module name="TicTacToe.main" target="23" />
       <module name="TicTacToe.test" target="23" />

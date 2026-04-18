@@ -4,6 +4,7 @@
     <file type="web" url="file://$PROJECT_DIR$/ElevatorSystem" />
     <file type="web" url="file://$PROJECT_DIR$/MultiThreading" />
     <file type="web" url="file://$PROJECT_DIR$/ParkingLot" />
+    <file type="web" url="file://$PROJECT_DIR$/RestaurantManagementSystem" />
     <file type="web" url="file://$PROJECT_DIR$/TicTacToe" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="23" project-jdk-type="JavaSDK">

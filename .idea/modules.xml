@@ -12,6 +12,9 @@
       <module fileurl="file://$PROJECT_DIR$/ParkingLot.iml" filepath="$PROJECT_DIR$/ParkingLot.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ParkingLot.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ParkingLot.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ParkingLot.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ParkingLot.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestaurantManagementSystem.iml" filepath="$PROJECT_DIR$/RestaurantManagementSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RestaurantManagementSystem.main.iml" filepath="$PROJECT_DIR$/.idea/modules/RestaurantManagementSystem.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RestaurantManagementSystem.test.iml" filepath="$PROJECT_DIR$/.idea/modules/RestaurantManagementSystem.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/TicTacToe.iml" filepath="$PROJECT_DIR$/TicTacToe.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TicTacToe.main.iml" filepath="$PROJECT_DIR$/.idea/modules/TicTacToe.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TicTacToe.test.iml" filepath="$PROJECT_DIR$/.idea/modules/TicTacToe.test.iml" />
